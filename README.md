@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![social link profile](./assets/images/image.png)
+![Social links profile](image.png)
 
 ### Links
 
